@@ -1,1 +1,56 @@
-[{"id":1,"bookname":"The Great Gatsby","bookauthor":"F. Scott Fitzgerald","bookcover":"https://imgix.bustle.com/uploads/image/2018/7/27/057ee9a1-a4a6-4510-9cf6-6f63f08ffd9f-the-great-gatsby-big.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70","bookrating":5,"bookviews":2500,"bookdetails":"The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession with the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald's magnum opus, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Roaring Twenties that has been described as a cautionary tale regarding the American Dream."},{"id":2,"bookname":"To Kill a Mockingbird","bookauthor":"Harper Lee","bookcover":"https://imgix.bustle.com/uploads/image/2018/7/27/685e6aa2-657e-4f9e-8bca-e2502425cf67-to-kill-a-mockingbird-cover-big.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70","bookrating":4,"bookviews":2400,"bookdetails":"To Kill a Mockingbird is a novel by Harper Lee published in 1960. Instantly successful, widely read in high schools and middle schools in the United States, it has become a classic of modern American literature, winning the Pulitzer Prize. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was 10 years old."},{"id":3,"bookname":"Harry Potter and the Sorcerer's Stone","bookauthor":"J.K. Rowling","bookcover":"https://imgix.bustle.com/uploads/image/2018/7/27/9b094f19-d9e5-4190-8329-e440dd55d0ca-harry_potter_and_the_sorcerers_stone_cover.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70","bookrating":5,"bookviews":3000,"bookdetails":"Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a few enemies during his first year at the school, and with the help of his friends, Harry faces an attempted comeback by the dark wizard Lord Voldemort, who killed Harry's parents, but failed to kill Harry when he was just 15 months old."},{"id":4,"bookname":"The Catcher in the Rye","bookauthor":"J.D. Salinger","bookcover":"https://imgix.bustle.com/uploads/image/2018/7/27/12574549-8c52-4248-8de9-7a0adff922d2-the-catcher-in-the-rye-big.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70","bookrating":3,"bookviews":2800,"bookdetails":"The Catcher in the Rye is a story by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951.[3] It was originally published for adults but has become popular among adolescent readers for its themes of angst and alienation, and as a critique on superficiality in society.[4][5] It has been translated into almost all of the world's major languages.[6] Around one million copies are sold each year, with total sales of more than 65 million books.[7] The novel's protagonist Holden Caulfield has become an icon for teenage rebellion.[8] The novel also deals with complex issues of innocence, identity, belonging, loss, and connection."},{"id":5,"bookname":"The Hobbit","bookauthor":"J.R.R. Tolkien","bookcover":"https://imgix.bustle.com/uploads/image/2018/7/27/728f96bd-c52c-44f8-ae4e-a7514777a0e1-the-hobbit-big.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70","bookrating":4,"bookviews":2867,"bookdetails":"The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction. The book remains popular and is recognized as a classic in children's literature."},{"id":6,"bookname":"Fahrenheit 451","bookauthor":"Ray Bradbury","bookcover":"https://imgix.bustle.com/uploads/image/2018/7/27/2b022dfc-8744-413f-bb9f-19b7229c81f2-fahrenheit-451.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70","bookrating":3,"bookviews":2890,"bookdetails":"Fahrenheit 451 is a dystopian novel by American writer Ray Bradbury, first published in 1953. It is regarded as one of his best works.[4] The novel presents a future American society where books are outlawed and \"firemen\" burn any that are found.[5] The book's tagline explains the title: \"Fahrenheit 451 – the temperature at which book paper catches fire, and burns...\" The lead character, Guy Montag, is a fireman who becomes disillusioned with his role of censoring literature and destroying knowledge, eventually quitting his job and committing himself to the preservation of literary and cultural writings."}]
+[
+  {
+    "id": 1,
+    "bookname": "The Great Gatsby",
+    "bookauthor": "F. Scott Fitzgerald",
+    "bookcover": "https://imgix.bustle.com/uploads/image/2018/7/27/057ee9a1-a4a6-4510-9cf6-6f63f08ffd9f-the-great-gatsby-big.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70",
+    "bookrating": 5,
+    "bookviews": 2500,
+    "bookdetails": "The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession with the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald's magnum opus, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Roaring Twenties that has been described as a cautionary tale regarding the American Dream."
+  },
+  {
+    "id": 2,
+    "bookname": "To Kill a Mockingbird",
+    "bookauthor": "Harper Lee",
+    "bookcover": "https://imgix.bustle.com/uploads/image/2018/7/27/685e6aa2-657e-4f9e-8bca-e2502425cf67-to-kill-a-mockingbird-cover-big.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70",
+    "bookrating": 4,
+    "bookviews": 2400,
+    "bookdetails": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. Instantly successful, widely read in high schools and middle schools in the United States, it has become a classic of modern American literature, winning the Pulitzer Prize. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was 10 years old."
+  },
+  {
+    "id": 3,
+    "bookname": "Harry Potter and the Sorcerer's Stone",
+    "bookauthor": "J.K. Rowling",
+    "bookcover": "https://imgix.bustle.com/uploads/image/2018/7/27/9b094f19-d9e5-4190-8329-e440dd55d0ca-harry_potter_and_the_sorcerers_stone_cover.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70",
+    "bookrating": 5,
+    "bookviews": 3000,
+    "bookdetails": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a few enemies during his first year at the school, and with the help of his friends, Harry faces an attempted comeback by the dark wizard Lord Voldemort, who killed Harry's parents, but failed to kill Harry when he was just 15 months old."
+  },
+  {
+    "id": 4,
+    "bookname": "The Catcher in the Rye",
+    "bookauthor": "J.D. Salinger",
+    "bookcover": "https://imgix.bustle.com/uploads/image/2018/7/27/12574549-8c52-4248-8de9-7a0adff922d2-the-catcher-in-the-rye-big.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70",
+    "bookrating": 3,
+    "bookviews": 2800,
+    "bookdetails": "The Catcher in the Rye is a story by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951.[3] It was originally published for adults but has become popular among adolescent readers for its themes of angst and alienation, and as a critique on superficiality in society.[4][5] It has been translated into almost all of the world's major languages.[6] Around one million copies are sold each year, with total sales of more than 65 million books.[7] The novel's protagonist Holden Caulfield has become an icon for teenage rebellion.[8] The novel also deals with complex issues of innocence, identity, belonging, loss, and connection."
+  },
+  {
+    "id": 5,
+    "bookname": "The Hobbit",
+    "bookauthor": "J.R.R. Tolkien",
+    "bookcover": "https://imgix.bustle.com/uploads/image/2018/7/27/728f96bd-c52c-44f8-ae4e-a7514777a0e1-the-hobbit-big.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70",
+    "bookrating": 4,
+    "bookviews": 2867,
+    "bookdetails": "The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction. The book remains popular and is recognized as a classic in children's literature."
+  },
+  {
+    "id": 6,
+    "bookname": "Fahrenheit 451",
+    "bookauthor": "Ray Bradbury",
+    "bookcover": "https://imgix.bustle.com/uploads/image/2018/7/27/2b022dfc-8744-413f-bb9f-19b7229c81f2-fahrenheit-451.jpg?w=646\u0026fit=max\u0026auto=format\u0026q=70",
+    "bookrating": 3,
+    "bookviews": 2890,
+    "bookdetails": "Fahrenheit 451 is a dystopian novel by American writer Ray Bradbury, first published in 1953. It is regarded as one of his best works.[4] The novel presents a future American society where books are outlawed and \"firemen\" burn any that are found.[5] The book's tagline explains the title: \"Fahrenheit 451 – the temperature at which book paper catches fire, and burns...\" The lead character, Guy Montag, is a fireman who becomes disillusioned with his role of censoring literature and destroying knowledge, eventually quitting his job and committing himself to the preservation of literary and cultural writings."
+  }
+]
